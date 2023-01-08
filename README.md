@@ -1,17 +1,18 @@
-# Nome do meu projeto
+# String em Python: extraindo informações de uma URL
 
-Rápida descrição do objetivo de fazer esse projeto
+Repositório do Curso String em Python: extraindo informações de uma URL da Alura
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **String em Python: extraindo informações de uma URL**
+| :label: Tecnologias | python (tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Imagem de um trecho de código Python que define as funções add5 e dotwrite;
+  Imagem de um celular antigo no fundo](https://cdn.pixabay.com/photo/2016/07/13/08/48/mobile-phone-1513945__340.jpg#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+A iniciar
